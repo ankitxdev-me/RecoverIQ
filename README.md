@@ -1,5 +1,9 @@
 # RecoverIQ — Autonomous AI Revenue Recovery Agent
 
+Our Team Gladiators consits of Two members
+1.  Ankit Gupta
+2.  Satyam Vishwakarma
+
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2026-blueviolet.svg)](https://hacktoberfest.com/)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
