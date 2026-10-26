@@ -1,0 +1,4 @@
+external_id,customer_ref,customer_name,customer_email,amount,currency,status,failure_code,failure_reason,created_at
+tx_csv_901,CUST-CSV-01,Starlight Media,billing@starlight.io,1850.00,USD,FAILED,insufficient_funds,Insufficient card balance,2026-10-25 14:00:00
+tx_csv_902,CUST-CSV-02,Quantum Dynamics,pay@quantumdyn.com,450.00,USD,FAILED,expired_card,Card expiration date has passed,2026-10-24 10:30:00
+tx_csv_903,CUST-CSV-03,Vanguard Logistics,ap@vanguardlog.com,7800.00,USD,FAILED,temporary_card_decline,Daily transaction limit exceeded,2026-10-25 18:20:00
